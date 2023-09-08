@@ -1,14 +1,24 @@
 import Valx_core
 
+
 def extract_lab_measurement_info(text):
+
+    # Initialize the features variables from `data/numeric_features.csv`.
     Valx_core.init_features()
+
+    # The `preprocessing` function cleans and standardizes input text for analysis by
+    # removing special characters, formatting numbers, and reducing whitespace.
     cleaned_text = Valx_core.preprocessing(text)
 
-    print(cleaned_text)
 
-    """
     # Extract candidates
     sections_num, candidates_num = Valx_core.extract_candidates_numeric(text)
+
+    print("sections_num: ", sections_num)
+    print("candidates_num: ", candidates_num)
+
+    """
+
     name_list = "hemoglobin"  # The keyword you want to search for
     sections, candidates = Valx_core.extract_candidates_name(sections_num, candidates_num, name_list)
 
@@ -38,8 +48,6 @@ def extract_lab_measurement_info(text):
         "Units": units
     }
     """
-
-
 
 
 # Example usage:
