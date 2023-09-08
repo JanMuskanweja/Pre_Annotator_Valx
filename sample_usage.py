@@ -43,6 +43,6 @@ def extract_lab_measurement_info(text):
 
 
 # Example usage:
-text = "hemoglobin > yy units"
+text = "bla bla, hemoglobin > yy units, bla. More and more text!"
 result = extract_lab_measurement_info(text)
-print(result)
+print("result: ", result)
