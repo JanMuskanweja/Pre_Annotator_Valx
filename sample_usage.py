@@ -22,7 +22,6 @@ def main():
     parser.add_argument('-v', default='All', help='Variable name: All, HBA1C, BMI, Glucose, Creatinine, BP-Systolic, BP-Diastolic')
 
     args = parser.parse_args()
-
     extract_variables(args.i, args.f1, args.f2, args.v)
 
     csv_file_path = 'data/diabetes_exp_All.csv'
@@ -53,9 +52,6 @@ def main():
 
     # Save this dataframe as a new CSV file
     df_subset.to_csv('data/diabetes_exp_All_subset.csv', index=False)
-
-    # result = extract_lab_measurement_info(text)
-    # print("result: ", result)
 
 
 if __name__ == '__main__':
