@@ -135,6 +135,29 @@ def extract_candidates_name (sections_num, candidates_num, name_list):
 
     return (sections, candidates)
 
+def process_relations(sentence):
+    words_to_insert = ["<", "less than", "or more"]
+    digits = re.findall(r'<?\d+\.\d+', sentence)
+
+    for digit in digits:
+        word_found = None
+        for word in words_to_insert:
+            if re.search(fr'{word}\s*{re.escape(digit)}', sentence):
+               word_found = word
+               break
+   
+        word_found2 = None
+        if not word_found:
+           for word in words_to_insert:
+               if re.search(fr'{word}.*{re.escape(digit)}', sentence) or re.search(fr'{re.escape(digit)}\s*{word}', sentence):
+                  word_found2 = word
+                  break
+        if word_found2:
+           replace_word = f'{word_found2} {digit}'
+           sentence = re.sub(digit, replace_word, sentence)
+
+    return sentence
+
 #====identify expressions and formalize them into labels "<VML(tag) L(logic, e.g., greater_equal)=X U(unit)=X>value</VML>"
 def formalize_expressions (candidate):
     text = candidate
@@ -166,8 +189,8 @@ def formalize_expressions (candidate):
                 betweens = between.split('|')
                 for betw in betweens:
                     betw = betw.replace('X', '<VML Unit([^<>]+)>([^<>]+)</VML>')
-                    text = re.sub(betw, r'<VML Logic=greater_equal Unit\1>\2</VML> - <VML Logic=lower_equal Unit\3>\4</VML>', text)
-
+                    text = re.sub(betw, r'<VML Logic=V2V Unit\1>\2</VML> - <VML Logic=V2V Unit\3>\4</VML>', text)
+                                         
             text = re.sub(source_pattern, target_pattern, text)
             now_pattern = pattern_function
 

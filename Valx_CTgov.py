@@ -55,7 +55,8 @@ def extract_variables (fdin, ffea, ffea2, var):
         text = Valx_core.preprocessing(trials[i][1]) # trials[i][1] is the eligibility criteria text
         (sections_num, candidates_num) = Valx_core.extract_candidates_numeric(text) # extract candidates containing numeric features
         for j in range(len(candidates_num)): # for each candidate
-            exp_text = Valx_core.formalize_expressions(candidates_num[j]) # identify and formalize values
+            modify_text = Valx_core.process_relations(candidates_num[j])
+            exp_text = Valx_core.formalize_expressions(modify_text) # identify and formalize values
             (exp_text, key_ngrams) = Valx_core.identify_variable(exp_text, feature_dict_dk, fea_dict_umls) # identify variable mentions and map them to names
             (variables, vars_values) = Valx_core.associate_variable_values(exp_text)
             all_exps = []
@@ -68,7 +69,8 @@ def extract_variables (fdin, ffea, ffea2, var):
                     curr_exps = Valx_core.normalization(fea_list[3], curr_exps) # unit conversion and value normalization
                     curr_exps = Valx_core.hr_validation (curr_exps, float(fea_list[4]), float(fea_list[5])) # heuristic rule-based validation
                 if len(curr_exps) > 0:
-                    if var == "All" or var.lower() == curr_var.lower() or var.lower() in curr_var.lower(): all_exps += curr_exps                     
+                    if var == "All" or var.lower() == curr_var.lower() or var.lower() in curr_var.lower(): all_exps += curr_exps
+                             
                  
             if len(all_exps) > 0: output.append((trials[i][0], sections_num[j], candidates_num[j], exp_text, str(all_exps).replace("u'", "'"))) # output result
 

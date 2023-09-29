@@ -29,12 +29,14 @@
  (the|this|these|those) (last|past|previous|recent|next|following|upcoming|preceding) <VML Unit=([^<>]*)>([^<>]+)</VML>, <VML Unit=\2 \3>\4</VML>,process_special_temporal
  (the|this|these|those) <VML Unit=([^<>]*)>([^<>]+)</VML>, <VML Unit=\2>\3</VML>,process_special_temporal
  (in|during|for|of|) (last|past|previous|recent|next|following|upcoming|preceding) <VML Unit=([^<>]*)>([^<>]+)</VML>, <VML Logic=lower_equal Unit=\2 \3>\4</VML>,process_special_temporal
-(?<!(\w|<|>|=))(more than or equal to|equal to or greater than|equal to or higher than|equal to or more than|equal or greater than|equal to or above|superior or equal to|greater than or equal to|greater or equal to|higher or equal than|higher or equal to|greater than or equal|great or equal to|greater / equal|above or equal to|minimum|> or equal to|≥|> =|= >|> or = to|= or >|> or =|> / =|at least|\+)(?!(\w|<|>)),<Logic>greater_equal</Logic>,process_logic
-(?<!(\w|<|>|=))(higher than|greater than|greater|above|more than|over|superior to|exceeding|exceed|>|larger than|older than|prior) <VML,<Logic>greater</Logic> <VML,process_logic
-(VML>|Unit>) (or higher|or above|or greater|or more|and above|or over|or older|or bigger|and older|and over)(?!(\w|<|>)),\1 <Logic>greater_equal</Logic>,process_logic
+(?<!(\w|<|>|=))(more than or equal to|equal to or greater than|equal to or higher than|equal to or more than|or older|equal or greater than|equal to or above|superior or equal to|greater than or equal to|greater or equal to|higher or equal than|higher or equal to|greater than or equal|great or equal to|greater / equal|above or equal to|and older|minimum|> or equal to|≥|> =|= >|> or = to|= or >|> or =|> / =|at least|\+)(?!(\w|<|>)),<Logic>greater_equal</Logic>,process_logic
+(?<!(\w|<|>|=))(higher than|greater than|greater|above|more than|over|superior to|exceeding|exceed|>|larger than|older than|prior|longer than) <VML,<Logic>greater</Logic> <VML,process_logic
+(VML>|Unit>) (or higher|or above|or greater|or more|and above|or over|or older|or bigger|and older|and over|and older)(?!(\w|<|>)),\1 <Logic>greater_equal</Logic>,process_logic
+(?<!(\w|<|>|=))(within)( <VML Unit=(previous days|past years|last years|previous months|past months)),\1<Logic>greater_negation</Logic>\3,process_logic
 (?<!(\w|<|>|=))(no more or around|below or equal to|lower or equal to|small than or equal to|less than or equal to|less than or equal|less or equal to|lesser than or equal to|lesser or equal to|lower than or equal to|equal to or lower than|equal to or below|equal to or less than|equal or less than|up to and including|smaller / equal|at most|up to|maximum|max|< or equal to|= <|< =|≤|< or = to|< or =|< / =|< -|= or <)(?!(\w|<|>)),<Logic>lower_equal</Logic>,process_logic
-(?<!(\w|<|>|=))(less than|lesser than|below|under|within|<|lower than|worse than|younger than) <VML,<Logic>lower</Logic> <VML,process_logic
+(?<!(\w|<|>|=))(less than|lesser than|below|under|within|<|lower than|worse than|younger than|past) <VML,<Logic>lower</Logic> <VML,process_logic
 (VML>|Unit>) (or lower|or below|or less|or lesser|at most|or younger|and younger)(?!(\w|<|>)),\1 <Logic>lower_equal</Logic>,process_logic
+(?<!(\w|<|>|=))(within past) <VML,<Logic>greater_equal</Logic> <VML,process_logic
 (?<!(\w|<|>|=))(equal to|=)(?!(\w|<|>)),<Logic>equal</Logic>,process_logic
 <VML>([^<>]+)</VML> <Logic>([^<>]+)</Logic> <Unit>([^<>]+)</Unit>,<VML Logic=\2 Unit=\3>\1</VML>,process_other_special_logics
 <Logic>([^<>]+)</Logic> <Logic>equal</Logic>,<Logic>\1</Logic>,process_other_special_logics
