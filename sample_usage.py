@@ -16,7 +16,11 @@ from Valx_CTgov import extract_variables
 
 def main():
     parser = argparse.ArgumentParser(description='Extract and structure numeric lab test comparison statements from text using Valx_CTgov')
+<<<<<<< HEAD
     parser.add_argument('-i', default='data/diabetes.csv', help='Input CSV file')
+=======
+    parser.add_argument('-i', default='data/valx_medicalNer_dataset.csv', help='Input CSV file')
+>>>>>>> valx_sample_usage
     parser.add_argument('-f1', default='data/rules.csv', help='Domain knowledge feature list CSV file')
     parser.add_argument('-f2', default='data/variable_features_umls.csv', help='UMLS feature list CSV file')
     parser.add_argument('-v', default='All', help='Variable name: All, HBA1C, BMI, Glucose, Creatinine, BP-Systolic, BP-Diastolic')
