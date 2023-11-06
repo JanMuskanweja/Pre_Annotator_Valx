@@ -1,0 +1,50 @@
+pid,mcid,nctid,criterion_text
+38,922,NCT03169881,Systolic blood pressures >100 mm Hg while not on pressor support
+38,1154,NCT03162978,Resting systolic blood pressure ≥ 140 mmHg
+38,1464,NCT03154476,Hypotension at baseline (BP <90/50 mmHg)
+38,2315,NCT03137498,"Has a blood pressure reading greater than 180/120 mmHg at triage,"
+38,6352,NCT03058029,Supine SBP >160 mm Hg and/or supine DBP >95 mm Hg
+38,8401,NCT03016351,Hypertension (systolic >159 mmHg and diastolic >99 mmHg) or on more than one anti-hypertensive medication
+38,8823,NCT03006770,"Ankle pressure (AP) ≤70 mmHg or TP ≤50 mmHg in the index leg. (If a subject has ABI >1.4 and TP is not measureable, inclusion may be based on TcPO2 ≤30 mmHg)"
+38,10005,NCT02981082,Systolic blood pressure < 90mmHg
+38,10554,NCT02964039,Resting blood pressure higher than 200/110 mm Hg
+38,13709,NCT02867696,Has a resting systolic blood pressure ≥ 150 mmHg or resting diastolic blood pressure of ≥100 mmHg or taking medication to control blood pressure that affects heart rate.
+38,14720,NCT02836899,Hemodynamic instability as defined by a systolic blood pressure <90 mmHg.
+38,14868,NCT02832115,Baseline hypotension SBP < 100 mmHg at the time of enrollment
+38,15284,NCT02819440,"Systolic blood pressure (SBP) < 100, > 150 mmHg"
+38,15361,NCT02816736,Symptomatic hypotension at randomization or systolic blood pressure < 90 mmHg
+38,15632,NCT02806570,Fixed pulmonary artery systolic pressure >70 mmHg
+38,15922,NCT02796209,Pre-existing sustained severe hypertension (BP ≥ 140/80 mmhg in the sitting position)
+38,16985,NCT02755116,"Hypotension on day of surgery, defined as a systolic blood pressure < 90mm Hg or a diastolic pressure < 60mm Hg."
+38,18955,NCT02679560,"Patients exhibiting signs of shock upon admission, HR >120 or SBP <100 mmHg."
+38,20000,NCT02636530,resting blood pressure above 150 mmHg systolic of 90 mmHg diastolic
+38,863,NCT03170375,On-treatment systolic BP of >160 mmHg at screening visit
+38,21299,NCT02591173,Diagnosed with primary autonomic failure and supine hypertension. Supine hypertension will be defined as systolic blood pressure > 150 mmHg and/or diastolic blood pressure > 90 mmHg while lying down.
+38,21972,NCT02580604,"Uncontrolled hypertension defined as resting systolic BP >150 mmHg or diastolic BP>90 mmHg; participants who do not meet these criteria at first screening will be re-evaluated, including after follow-up evaluation by the PCP with initiation or adjustment of anti-hypertensive medications"
+38,22582,NCT02570672,"Poorly controlled hypertension (systolic >160 mmHg, diastolic >100 mmHg)"
+38,50430,NCT01568255,Systolic blood pressure < 100 mmHg
+38,27272,NCT02488967,Uncontrolled hypertension defined as sustained systolic blood pressure (BP) greater than 150 mmHg or diastolic BP greater than 90 mmHg; (patients with initial BP elevations are eligible if initiation or adjustment of BP medication lowers pressure to meet entry criteria)
+38,28199,NCT02471833,Mean resting systolic blood pressure ≥ 110 mmHg and ≤ 170 mmHg
+38,28766,NCT02464878,Blood Pressure: SBP > 160 mmHg or DBP >100 mmHg despite treatment with antihypertensive agents.
+38,30826,NCT02416102,"Untreated arterial hypertension (systolic blood pressure >140 mm Hg, diastolic blood pressure > 90 mm Hg)"
+38,31053,NCT02411773,Uncontrolled hypertension with blood pressure (BP) greater than 170/100 mmHg
+38,32531,NCT02378714,systolic blood pressure >185 mmHg or diastolic blood pressure >110 mmHg after two readings or symptomatic uncontrolled stage II hypertension
+38,34187,NCT02340156,Supine systolic blood pressure < 100 mmHg or supine diastolic blood pressure < 50 mmHg at screening and baseline
+38,35684,NCT02308202,"Have vital signs as follows: supine blood pressure > 100/65 mm Hg, a seated blood pressure greater than 90/60 mm Hg, and an orthostatic change smaller than20 mm Hg systolic or 10 mm Hg diastolic on standing. Participants should not have hypertension (BP above 150/100)"
+38,35920,NCT02299414,"Women with chronic hypertension in pregnancy with new or untreated chronic hypertension, blood pressure 140-159 systolic or 90-104 diastolic OR known chronic hypertension on monotherapy and taking any antihypertensive and blood pressure ≤159/104 (including those with blood pressure <140/90);"
+38,36535,NCT02272998,Patients must have controlled blood pressure with a systolic blood pressure < 140 mmHg and diastolic < 90 mmHg; anti-hypertensive medications are permitted
+38,37339,NCT02252081,Uncontrolled hypertension with systolic blood pressure 160 mmHg and diastolic blood pressure 100 mmHg;
+38,37431,NCT02250534,Diastolic blood pressure < 50 or ≥ 100 mmHg (participants outside the range will be allowed to re-screen once)
+38,38183,NCT02217709,Uncontrolled hypertension despite appropriate medical therapy (blood pressure [BP] greater than 160 mmHg systolic and 90 mmHg diastolic at 2 separate measurements no more than 60 minutes apart during the screening visit); Note: patients may be rescreened after adjustment of antihypertensive medications
+38,39340,NCT02178566,Uncontrolled systemic hypertension with a blood pressure >180/105 mmHg at rest
+38,39611,NCT02169089,Uncontrolled hypertension (SBP>160 and/or DBP>95 mmHg at visit 0 (screening) and SBP >145 mm Hg at visit 2).
+38,40556,NCT02145260,Pre-dialysis SBP >180 mmHg
+38,43271,NCT02048722,Uncontrolled hypertension (systolic pressure > 140 mmHg or diastolic pressure > 90 mmHg on repeated measurement) despite optimal medical management
+38,44136,NCT02012296,Blood pressure that is not controlled despite > 2 oral agents (systolic blood pressure [SBP] > 160 and diastolic blood pressure [DBP] > 90 documented during the screening period with no subsequent blood pressure readings < 160/100)
+38,47566,NCT01817751,Systolic blood pressure (BP) > 160 mm Hg or diastolic pressure > 100 mm Hg despite optimal medical management
+38,54858,NCT02133885,Office systolic blood pressure (SBP) of greater than 160 mmHg based on an average of 3 blood pressure readings measured at both initial screening visit
+38,51781,NCT01370512,The presence of OH (fall in systolic BP >=30 mm Hg) is required for this study.
+38,27366,NCT02485639,Diastolic blood pressure < 90 millimeters of mercury (mmHg).
+38,29228,NCT02453373,"Significant hypotension < 120 mm Hg, regardless of the underlying cause"
+38,34648,NCT02332369,Preoperative intraocular pressure over 21 mm Hg
+38,44718,NCT01983462,Systolic blood pressure >/= 130 mmHg and <180 mmHg

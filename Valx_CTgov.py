@@ -54,26 +54,35 @@ def extract_variables (fdin, ffea, ffea2, var):
         # pre-processing eligibility criteria text
         text = Valx_core.preprocessing(trials[i][1]) # trials[i][1] is the eligibility criteria text
         (sections_num, candidates_num) = Valx_core.extract_candidates_numeric(text) # extract candidates containing numeric features
-        for j in range(len(candidates_num)): # for each candidate
-            modify_text = Valx_core.process_relations(candidates_num[j])
-            exp_text = Valx_core.formalize_expressions(modify_text) # identify and formalize values
-            (exp_text, key_ngrams) = Valx_core.identify_variable(exp_text, feature_dict_dk, fea_dict_umls) # identify variable mentions and map them to names
-            (variables, vars_values) = Valx_core.associate_variable_values(exp_text)
-            all_exps = []
-            for k in range(len(variables)):
-                curr_var = variables[k]
-                curr_exps = vars_values[k]
-                if curr_var in features:
-                    fea_list = features[curr_var]
-                    curr_exps = Valx_core.context_validation(curr_exps, fea_list[1], fea_list[2])                           
-                    curr_exps = Valx_core.normalization(fea_list[3], curr_exps) # unit conversion and value normalization
-                    curr_exps = Valx_core.hr_validation (curr_exps, float(fea_list[4]), float(fea_list[5])) # heuristic rule-based validation
-                if len(curr_exps) > 0:
-                    if var == "All" or var.lower() == curr_var.lower() or var.lower() in curr_var.lower(): all_exps += curr_exps
-                             
-                 
-            if len(all_exps) > 0: output.append((trials[i][0], sections_num[j], candidates_num[j], exp_text, str(all_exps).replace("u'", "'"))) # output result
-
+        if not candidates_num:
+           criteria_start = text.find("criteria:# -")
+           inclusion_text = text[:criteria_start].strip().capitalize()
+           sentence_text = text[criteria_start + len("criteria:# -"):].strip()
+           output.append((trials[i][0], inclusion_text, sentence_text, "", ""))
+        else:
+           combined_text = ""
+           all_combined_exps = []
+           for j in range(len(candidates_num)): # for each candidate
+               modify_text = Valx_core.process_relations(candidates_num[j])
+               exp_text = Valx_core.formalize_expressions(modify_text) # identify and formalize values
+               (exp_text, key_ngrams) = Valx_core.identify_variable(exp_text, feature_dict_dk, fea_dict_umls) # identify variable mentions and map them to names
+               (variables, vars_values) = Valx_core.associate_variable_values(exp_text)
+               all_exps = []
+               for k in range(len(variables)):
+                   curr_var = variables[k]
+                   curr_exps = vars_values[k]
+                   if curr_var in features:
+                      fea_list = features[curr_var]
+                      curr_exps = Valx_core.context_validation(curr_exps, fea_list[1], fea_list[2])                           
+                      curr_exps = Valx_core.normalization(fea_list[3], curr_exps) # unit conversion and value normalization
+                      curr_exps = Valx_core.hr_validation (curr_exps, float(fea_list[4]), float(fea_list[5])) # heuristic rule-based validation
+                   if len(curr_exps) > 0:
+                      if var == "All" or var.lower() == curr_var.lower() or var.lower() in curr_var.lower(): 
+                          all_exps += curr_exps
+               combined_text = combined_text + candidates_num[j]
+               all_combined_exps += all_exps
+                                            
+           output.append((trials[i][0], sections_num[0], combined_text, exp_text, str(all_combined_exps).replace("u'", "'")))
     # output result
     fout = os.path.splitext(fdin)[0] + "_exp_%s.csv" % var
     print("Output result file:", fout)

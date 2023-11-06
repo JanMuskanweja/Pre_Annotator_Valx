@@ -1,0 +1,101 @@
+pid,mcid,nctid,criterion
+3,1815,NCT03148795,"Radiation therapy within 3 weeks (within 2 weeks, if single fraction of radiotherapy) before day 1."
+3,2079,NCT03143894,"Hairstyles that obstruct placement of the electrodes including cornrows, dreadlocks, braids or other hair accessories that cannot be removed."
+3,2173,NCT03140488,History of previous cesarean delivery
+3,2316,NCT03137498,Previously enrolled to the study
+3,4056,NCT03103646,Known CYP2D6 and CYP2C19 genotype
+3,5028,NCT03081559,Assigned male sex at birth but does not currently identify as male; and
+3,5339,NCT03076034,Prior fracture in adulthood (>age 18) for healthy controls
+3,5471,NCT03073811,Able to record dietary intake or has a proxy who can record dietary intake
+3,5678,NCT03070145,History of histologically confirmed prostate cancer
+3,6524,NCT03054519,Currently taking metformin or has taken metformin in past six months.
+3,7709,NCT03033303,Inability to comply with protocol requirements
+3,7944,NCT03028350,Daily use of long-acting antihistamines in the last two weeks before starting treatment.
+3,9054,NCT03002519,Signed written informed consent.
+3,9396,NCT02992275,Other severe medical illness or condition that would preclude safe participation in the study as determined by the study team
+3,10153,NCT02977468,"Breast size B cup or larger, to allow for IORT procedure."
+3,10193,NCT02977299,"patients who have received treatment with vagus nerve stimulation (VNS),"
+3,10202,NCT02975986,"Ages Eligible for Study: 21 Years to 99 Years   (Adult, Older Adult)"
+3,10514,NCT02964741,"History or current evidence of a psychotic disorder (e.g. schizophrenia) or substance abuse; bipolar or severe major depression, as evidenced by Beck Depression score of ≥ 30"
+3,11294,NCT02943915,Unable to achieve neutral ankle dorsiflexion with passive stretch (neutral with max 12° knee flexion)
+3,11404,NCT02942095,Radiotherapy completed within 2 weeks prior to treatment initiation. Radiotherapy completed >2 weeks prior to treatment initiation is allowed if all procedure-related toxicities resolved per inclusion #2.
+3,12386,NCT02914834,additional acupuncture
+3,13012,NCT02900469,Serum calcium or albumin-adjusted serum calcium ≥2.0mmol/L (8.0mg/dL) and ≤ 2.9 mmol/L (11.5mg/dL)
+3,13383,NCT02879136,"Ages Eligible for Study: 18 Years to 90 Years   (Adult, Older Adult)"
+3,13552,NCT02874898,"Current PTSD diagnosis based on DSM-5 criteria, with a minimum duration of 12 weeks since the traumatic event;"
+3,14220,NCT02851888,Radiographic signs of osteoarthritis (> Tonis grade 1)
+3,14748,NCT02835729,History of any other active cancer diagnosis
+3,15202,NCT02822001,Patients whose condition will not allow for placement of the electrode PadSet of ExSpiron
+3,15333,NCT02818972,"Subject anatomy with significant stenosis, calcification, thrombus or tortuosity."
+3,16261,NCT02779244,Open fractures
+3,16331,NCT02776761,Available and able to participate for all study visits and procedures
+3,16375,NCT02775162,Subject is able and willing to comply with all study requirements
+3,16549,NCT02769611,Patients with acute myocarditis
+3,17005,NCT02754752,Have worst pain >= to 4 (0-10 numeric rating scale [NRS]) in the preceding week
+3,17165,NCT02748070,scheduled to undergo endoscopic sinus surgery
+3,18061,NCT02712229,"Clinician eligibility criteria. Oncology staff nurses who undergo training to deploy CONNECT, oncologists, and practice managers at participating sites will be eligible to participate."
+3,19049,NCT02675114,Ventricular dysfunction with LVEF < 30%
+3,19050,NCT02675114,"Cardiac imaging evidence of intracardiac mass, thrombus or vegetation"
+3,19432,NCT02660528,"Recent exposure to uncommon infections (e.g. histoplasmosis, blastomycosis, coccidiomycosis) through recent travel to the Ohio and Mississippi River Valleys and the Southwest"
+3,19449,NCT02658630,Be medically stable to participate in the study and not have contractures or other impairments that would interfere with the interventional training.
+3,19542,NCT02656550,"Subject who is seropositive for HIV, HBV, HCV"
+3,20500,NCT02615249,"Understands and signs the approved Informed Consent form which is consistent with all institutional, local and national regulations."
+3,20531,NCT02613936,Glasgow Coma Score (GCS) between 9 and 15 upon emergency department (ED) admission
+3,20873,NCT02600156,Diagnosis of prostate adenocarcinoma.
+3,21197,NCT02593110,MMSE score < 23 or dementia.
+3,22342,NCT02574910,Asthma or other condition requiring treatment with systemic corticosteroids within the past 3 months. Asthma treatment with inhaled corticosteroids is permitted.
+3,22768,NCT02566395,Performance status >70
+3,23135,NCT02561988,"Total bilirubin >1.5 × ULN; >3 × ULN if associated with liver infiltration by the disease being treated or in the presence of Gilbert's Disease (In the case of Gilbert's disease, a direct bilirubin > 2.0 ULN would be an exclusion.)"
+3,23176,NCT02561104,Condition which would cause inadequate clearance between the intended capsulotomy depth and the corneal endothelium
+3,23365,NCT02555280,"Cauda equina syndrome, defined as neural compression causing neurogenic bowel (rectal incontinence) or bladder (bladder retention or incontinence) dysfunction."
+3,24260,NCT02536794,Patients who are ER negative must have progressed through at least one prior chemotherapy regimen in the metastatic setting or within 12 months of their last adjuvant systemic treatment; patients who are ER positive must have progressed through standard hormone therapy options and have received at least one line of chemotherapy in the metastatic setting
+3,24446,NCT02534168,Children > 3 years of age
+3,24502,NCT02532621,Subject has a documented and unsuccessfully treated ipsilateral central venous stenosis as determined by imaging.
+3,25367,NCT02519348,"Any concurrent chemotherapy, immunotherapy, or biologic or hormonal therapy for cancer treatment"
+3,25446,NCT02518594,"Twin gestation with cardiac activity in both fetuses. Higher order multifetal gestations reduced to twins, either spontaneously or therapeutically, are not eligible unless the reduction occurred by 13 weeks 6 days project gestational age."
+3,25960,NCT02510417,Patients with other uncontrolled infections
+3,26842,NCT02496208,"Women of childbearing potential must have a negative pregnancy test at screening; women of childbearing potential include women who have experienced menarche and who have not undergone successful surgical sterilization (hysterectomy, bilateral tubal ligation, or bilateral oophorectomy) or are not postmenopausal; postmenopause is defined as amenorrhea >= 12 consecutive months; Note: women who have been amenorrheic for 12 or more months are still considered to be of childbearing potential if the amenorrhea is possibly due to prior chemotherapy, antiestrogens, ovarian suppression or any other reversible reason"
+3,28086,NCT02473354,has a prior or known allergy to lidocaine or similar pharmacologic agents;
+3,28778,NCT02464878,Active infections (except mild skin and nail fungal infections).
+3,29072,NCT02457845,"Tumor involvement which would require ventricular, cerebellar or brainstem inoculation or would require access through a ventricle in order to deliver treatment"
+3,29186,NCT02454010,At least one measurable disease site that meets target lesion requirements
+3,29521,NCT02446886,"Patients unable to undergo MRI imaging because of having an artificial heart valve, metal plate, pin, or other metallic objects in their body or is unable to complete all the MRI scans required for this study"
+3,29675,NCT02443181,Prior trauma to the brain on side of putative implantation of stimulator
+3,31557,NCT02403128,Best-corrected visual acuity of 73 to 24 letters.
+3,32055,NCT02393690,Not willing to discontinue use of supplemental vitamin E
+3,32680,NCT02373241,Signed Informed Consent
+3,32942,NCT02367040,"Hepatitis B (HBV) or hepatitis C (HCV). Patients positive for HBsAg or HBcAb will be eligible if they are negative for HBV-DNA, these patients should receive prophylactic antiviral therapy. Patients positive for anti- HCV antibody will be eligible if they are negative for HCV-RNA"
+3,33034,NCT02366481,"Subjects receiving systemic treatment or topical treatment likely to interfere with evaluation of the study parameters (salicylates, antibiotics)"
+3,33605,NCT02352025,Progesterone receptor negative - defined as less than or equal to 5% staining by IHC.
+3,33955,NCT02343042,"Patients who received ≥ 3 prior lines of therapy, including a PI and an immunomodulatory agent (IMiD), or patients with MM refractory to both a PI and an IMiD."
+3,34452,NCT02334865,Patients with newly diagnosed multiple myeloma who have at least a partial response after induction therapy based on the International Working Group (IWG) Uniform Response Criteria
+3,35958,NCT02298504,Pediatric patients with deep dental decay in primary molars
+3,36138,NCT02287558,Age > 18 years
+3,37318,NCT02252432,Alcohol or substance abuse within in the past 3 months
+3,37852,NCT02233322,"Ages Eligible for Study: 25 Months and older   (Child, Adult, Older Adult)"
+3,38319,NCT02213497,Patients with AJCC 7th edition clinical stage IIB-IIIC
+3,39071,NCT02189889,seizures within the past year
+3,39591,NCT02169739,"Intolerance or contraindications to aspirin or clopidogrel (including thrombocytopenia, prolonged INR)"
+3,39994,NCT02160288,Known hypersensitivity to any of the components of the toxin
+3,40160,NCT02157974,Medications known to effect insulin sensitivity
+3,40883,NCT02133573,Multiple gestation
+3,41676,NCT02109627,Females must have a negative serum pregnancy test 24 hours prior to the start of treatment or be surgically or biologically sterile or postmenopausal (amenorrheic for at least 12 months)
+3,42505,NCT02085941,"Cryoablation can be performed near vessels of the head and neck, and if deemed necessary tumor may be displaced using a saline injection (hydro-displacement). Tumor displacement from nerves may be required and will be performed as deemed appropriate to avoid nerve injury."
+3,43681,NCT02033616,Known to have active hepatitis B or C or HIV
+3,43789,NCT02025465,Patients presenting to Charleston Area Medical Center (CAMC) General or Memorial Hospital ED with a primary diagnosis of AF/FL
+3,44587,NCT01989585,Able to swallow and retain oral medication and must not have any clinically significant gastrointestinal abnormalities that may alter absorption such as malabsorption syndrome or major resection of the stomach or bowels
+3,47399,NCT01827384,TREATMENT: Patients who are receiving any other investigational agents; patients on other trials will be eligible as long as they are no longer receiving study treatment
+3,48256,NCT01763970,ability to understand and willingness to sign informed consent document
+3,48341,NCT01757418,Known IgA deficiency or known allergy to gamma globulin
+3,48447,NCT01750567,Patients less than 30 days from last treatment for CLL.
+3,48834,NCT01703949,Prior transplant within 100 days
+3,48900,NCT01698658,Sexes Eligible for Study: Female
+3,49145,NCT01684904,Endoscopic ultrasound
+3,49610,NCT01639508,"women who have been amenorrheic for 12 or more months are still considered to be of childbearing potential if the amenorrhea is possibly due to prior chemotherapy, antiestrogens, ovarian suppression or any other reversible reason."
+3,50637,NCT01553071,Baseline (pre-treatment) serum troponin T (TnT) ≥ 0.03 ng/mL. Troponin T levels may be rechecked and therapy given if levels decrease to < 0.03 ng/mL.
+3,51550,NCT01421810,Normal weight (BMI 5-85%-ile for age) or overweight (>85%-ile)
+3,51769,NCT01371630,"Adequate liver function (bilirubin < 1.95 mg/dL and SGPT or SGOT < 3 x upper limit of normal [ULN], unless considered due to tumor), and renal function (estimated creatinine clearance ≥50 mL/min/1.73 m2). Even if organ function abnormalities are considered due to tumor, the upper limit for bilirubin is < 2.6 mg/dL and creatinine < 3 mg/dL."
+3,53253,NCT00914628,DLCO > 50%
+3,53446,NCT00862446,signed informed consent
+3,53645,NCT00720785,Life expectancy less than 3 months.
+3,54455,NCT00147056,Large subjects not fitting comfortably into the MRI scanner

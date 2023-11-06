@@ -1,0 +1,69 @@
+pid,mcid,nctid,criterion_text
+26,1084,NCT03165227,UACR ≥ 200 and <3500 mg/g in spot urine (midstream urine sample) at Visit 1 measured by the central laboratory
+26,1939,NCT03145298,Pulmonary capillary wedge pressure (PCWP) or LVEDP < 15 mm Hg
+26,5111,NCT03078907,"<li>
+<p>With the following hemodynamic characteristics assessed by right heart catheterization (RHC) prior to randomization:</p>
+<ul>
+<li>Mean pulmonary artery pressure (mPAP) ≥ 25 mmHg</li>
+<li>Pulmonary vascular resistance (PVR) ≥ 240 dyn•sec/cm5 (or 3 Wood Units)</li>
+<li>Pulmonary artery wedge pressure (PCWP) or left ventricular end-diastolic pressure (LVEDP) ≤ 15 mmHg.</li>
+</ul>
+</li>"
+26,5189,NCT03078491,"End stage renal insufficiency (eGFR<30), or on dialysis (since impact of fluid shift on sensor lag not clearly understood)."
+26,6163,NCT03059355,Impaired flow-mediated vasodilation (FMD <7%)
+26,6887,NCT03044054,Patient's fibroadenoma size is greater or equal to 0.2 cc and less than 10 cc in volume (measured by ultrasound on the day of the procedure).
+26,8915,NCT03005418,Preoperative imaging or clinical examination indicates the damaged vessel has a defect length of ≤ 38cm and is appropriately size matched to the 6mm Human Acellular Vessel (HAV) per the judgment of the treating surgeon taking into account vasoconstriction and situational inflow and outflow considerations.
+26,10644,NCT02961114,Post-void residual urine volumes of > 350 cc
+26,10929,NCT02953392,Residual bone height ranging from 6 to 9 mm.
+26,11637,NCT02932410,"<p>Key Inclusion Criteria:</p><ul>
+<li>Signed informed consent by the parent(s) or legally designated representative and assent from developmentally capable children prior to initiation of any study-mandated procedure</li>
+<li>Males or females between greater than or equal to (&gt;=) 1 month and less than (&lt;) 18 years of age</li>
+<li>Participants with body weight &gt;= 3.5 kilograms (kg) at randomization</li>
+<li>Pulmonary arterial hypertension (PAH) diagnosis confirmed by historical RHC (mPAP greater than or equal to [&gt;=] 25 millimeters of mercury [mmHg], and Pulmonary artery wedge pressure [PAWP] less than or equal to [&lt;=] 15 mmHg, and Pulmonary vascular resistance index [PVRi] greater than [&gt;] 3 WU × m2), where in the absence of pulmonary vein obstruction and/or significant lung disease PAWP can be replaced by Left atrium pressure [LAP] or Left ventricular end diastolic pressure [LVEDP] (in absence of mitral stenosis) assessed by heart catheterization</li>
+<li>PAH belonging to the Nice 2013 Updated Classification Group 1 (including participants with Down Syndrome) and of following etiologies: idiopathic PAH; heritable PAH; PAH associated with congenital heart disease (CHD); Drug or toxin induced PAH; PAH associated with HIV; PAH associated with connective tissue diseases (PAH-aCTD); and World health organization (WHO) Functional class I to III</li>
+<li>Females of childbearing potential must have a negative pregnancy test at Screening and at Baseline, and must agree to undertake monthly pregnancy tests, and to use a reliable method of contraception (if sexually active) up to the end of study (EOS)</li>
+</ul>"
+26,50920,NCT01508390,Prostate volume greater than 20 cc and less than 100 cc
+26,14721,NCT02836899,Mean pulmonary artery pressure ≥ 40 mm Hg and PVR > 4 Wood Units.
+26,16096,NCT02784535,"Neurogenic Orthostatic Hypotension (defined by a reduction of ≥20 mmHg drop in SBP within 3 minutes of standing, associated with impaired autonomic reflexes as assessed by autonomic function tests."
+26,18213,NCT02707692,Documented CD4 count at enrollment (>250 cells/µl)
+26,19015,NCT02675959,Tricuspid Regurgitant Jet Velocity (TRV) > 3.0 m/s
+26,19622,NCT02652247,"Conditions limiting the subject's ability to tolerate collection of lavage specimens, including: FIO2 > 80%; PEEP > 16 cmH2O; Intracranial pressure >20 cmH2O; Tracheal or mucosal bleeding; Platelet count < 20,000 cells/uL; INR > 2.0"
+26,20927,NCT02598713,High PEEP requirement at enrollment (PEEP higher than 8 cmH2O)
+26,21277,NCT02592473,"IPSS score at initial evaluation should be greater than 7, and uroflowmetry (Qmax) of <12mL/s (milliliters per second) ."
+26,21784,NCT02583360,Room air or supplemental oxygen of ≤1liter/minute (LPM)
+26,23424,NCT02554903,Doppler mean blood pressure < 65 mmHg at Randomization.
+26,23474,NCT02554786,A one-time repeat/re-testing of percent predicted FEV1 (prebronchodilator FEV1) is allowed at Visit 101 and at Visit 102.
+26,23861,NCT02546583,Cumulative 6-hour sodium output < 100 mmol following Visit 1 IV loop diuretic dose
+26,24876,NCT02525861,The participant is experiencing or has a history of chronic severe cor pulmonale (resting mean pulmonary artery pressure > or =40 millimeters) of mercury [mm Hg]).
+26,26028,NCT02508311,Males with maximal inspiratory pressure (MIP) < 90 cmH2O or
+26,27230,NCT02489019,Patients with a pre-induction mean arterial blood pressure (MAP) less than 50 or greater than 150
+26,28099,NCT02473354,"has a COHb greater than 3%, or MetHb greater than 2% [measured by venous blood sample co-oximetry];"
+26,28379,NCT02468778,Cardiogenic shock (SBP <90 mmHg for >1 hour with either cool clammy skin OR oliguria OR altered sensorium AND cardiac index <2.2 L/min/m^2)
+26,28791,NCT02464696,Partial pressure of arterial oxygen (PaO2):fraction of inspired oxygen (FiO2) ratio =< 300 mmHg OR a peripheral capillary oxygen saturation (SaO2):FiO2 =< 357
+26,28803,NCT02464696,pH < 7.30 or partial pressure of carbon dioxide (pCO2) > 50 (if available)
+26,30933,NCT02414269,Baseline pulse oximetry is less than 92% on Room air
+26,32773,NCT02370095,Acute onset need for 4 liters per minute (LPM) or more of supplemental oxygen to maintain Arterial partial pressure of oxygen (PaO2) > 60 mmHg or arterial O2 saturation > 90% by pulse oximetry.
+26,33700,NCT02349867,Persistent heart rate (HR) < 50 or > 120 beats per minute (bpm).
+26,36648,NCT02272049,Baseline oximetry at MRI visit of less than 95% on room air or less than 95% on a previously prescribed dosage of oxygen delivered by nasal cannula
+26,39609,NCT02169089,GFR <90 and evidence of proteinuria (Urine albumin/creatinine ratio of >30 mg/g or equivalent) in a urine specimen within 12 months OR GFR <60 mg/g regardless of proteinuria.
+26,39702,NCT02167009,Patient has a peak urine flow rate < 12 mL/sec
+26,41372,NCT02122328,Recipient twin with a middle cerebral artery peak systolic velocity > 1.5 multiples of the median (indicative of fetal anemia).
+26,50187,NCT01589263,Voided volume greater than 125 ml
+26,44336,NCT02000115,Subject has senile degenerative aortic valve stenosis with echocardiographically derived criteria: mean gradient >40 mmHg or jet velocity greater than 4.0 m/s or Doppler Velocity Index <0.25 and an initial aortic valve area (AVA) of ≤ 1.0 cm2 (indexed effective orifice area (EOA) ≤ 0.6 cm2/m2). (Qualifying AVA baseline measurement must be within 60 days prior to informed consent).
+26,45751,NCT01937884,"Exhibits Acute Hypoxemic Respiratory Failure as defined as: PaO2/FiO2 ≤ 300 or SpO2/FiO2 ≤ 260, No evidence of cardiac dysfunction, Mechanically ventilated,"
+26,47576,NCT01817751,Persistent heart rate (HR) <50 or >120 beats per minute (bpm)
+26,49093,NCT01686659,At least one finger available and accessible for performing non-invasive hemoglobin monitoring (preoperative perfusion index greater than 0.5)
+26,54648,NCT02133872,More than one episode(s) of orthostatic hypotension (reduction of SBP of ≥ 20mmHg of diastolic blood pressure (DBP) of ≥ 10mmHg within 3 minutes of standing).
+26,50984,NCT01504373,Peak inspiratory pressure (PIP) > 30 cmH2O
+26,52914,NCT00985205,"<li>
+<p>a) Patients without known renal disease and renal dysfunction defined as a serum creatinine &gt;171 µmol/L or a urine output of less than 500 mL/last 24 hours (or 80 mL/last 4 hours if a 24 hour period of observation is not available).</p>
+<p>b) Patients with acute on chronic renal failure (pre-dialysis) with an absolute increase of &gt;80 µmol/L from baseline or pre-admission creatinine or a urine output of &lt;500 mL/last 24 hours (or 80 mL/last 4 hours).</p>
+<p>c) Patients with chronic renal failure on dialysis will be excluded.</p>
+</li>"
+26,53677,NCT00719888,Diffusion capacity for carbon monoxide corrected (DLCOcorr) > 50% normal or a pediatric patient who is unable to perform pulmonary function tests (PFTs) but has adequate pulmonary function
+26,54285,NCT00338377,Pulmonary function tests (FEV1>65% or FVC>65%of predicted) within 6 months of lymphodepletion. (Turnstile II - Chemotherapy/Cell Infusion - Inclusion Criteria).
+26,9998,NCT02981082,Right heart catheterization demonstrating mPAP≥ 25 mmHg and PCWP or left ventricular end diastolic pressure ≤15mm Hg and pulmonary vascular resistance ≥240 dynes/cm-5 (3 Wood units) within 12 weeks prior to study entry.
+26,758,NCT03171168,Patients with a Visual Analog Scale (VAS) pain score of ≥3cm (measured at baseline).
+26,3375,NCT03114020,"Subjects with measured DLCO of ≤ 35%, or unable to perform a reproducible DLCO"
+26,30231,NCT02430077,Hematocrit of less than 30%.

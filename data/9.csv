@@ -1,0 +1,101 @@
+pid,mcid,nctid,criterion_text
+9,19209,NCT02667418,Age > 18
+9,21478,NCT02588391,Age 4 or 5 years
+9,45071,NCT01967849,ages 7-21
+9,45988,NCT01918683,Age > 18 years old
+9,2112,NCT03141970,Age 12 months up to 48 months
+9,3131,NCT03117751,Age 1-18 years (inclusive).
+9,4032,NCT03104205,Age ≥65 years
+9,5803,NCT03067571,Age >/=18 years at the time of signing the informed consent form
+9,6569,NCT03053518,Diabetes management by metformin or lifestyle intervention
+9,7774,NCT03030859,Eligibility criteria same as stage I
+9,8152,NCT03022292,Subject is older than 50 years of age.
+9,8333,NCT03017118,Radiographic evidence of Eaton stage 1 and 2 only
+9,9572,NCT02989597,Patient outside of age criteria
+9,11040,NCT02947971,Subjects over 70 years of age
+9,12091,NCT02922881,Age: 8-19 (inclusive)
+9,12834,NCT02905370,65 years of age and older
+9,13367,NCT02881242,Use of an investigational agent within 4 weeks of enrollment
+9,13742,NCT02866279,17 years of age or older
+9,14226,NCT02851758,Pediatric cardiology patients under the age of 18 on ECMO
+9,14314,NCT02849457,less than or equal to 6 months of age
+9,15418,NCT02813889,Infants outside age range of 3-11 months
+9,15714,NCT02802787,Age of 21 of older
+9,16372,NCT02775162,Subject is 18 years of age or greater
+9,16923,NCT02759146,21 year of age or older
+9,17425,NCT02740361,age > 18
+9,18026,NCT02715583,Inclusion Criteria at least 18 years of age
+9,20107,NCT02633111,18 years of age at time of signing informed consent
+9,21236,NCT02592551,Age >/= 18 years at time of study entry
+9,21556,NCT02587598,Aged 18 years or older
+9,21574,NCT02587403,18 years of age or greater
+9,25593,NCT02516332,Age > 39 years
+9,26902,NCT02495545,Aged 18-75 years inclusive;
+9,27318,NCT02487251,Preschool aged child
+9,27461,NCT02484248,"between the ages of 8 and 17 years, inclusive"
+9,27555,NCT02481765,Adult aged > 18 years and ≤ 45 years
+9,27875,NCT02477124,Age 25 and greater
+9,28322,NCT02469519,Participants age 18 years or older
+9,28378,NCT02468778,Staged PCI is planned within 90 days following device removal
+9,28885,NCT02462161,Current or previous use of glucose-lowering agents or insulin;
+9,29477,NCT02448498,Age less than 30 years or greater than 75 years
+9,29962,NCT02437812,Age greater than 18 years
+9,30105,NCT02433977,Asthma diagnosed at age 9 or later
+9,31462,NCT02404402,Age: 21-55
+9,33043,NCT02365766,Over 18 years of age on day of signing informed consent.
+9,35231,NCT02316886,Patients aged ≥18 years
+9,34556,NCT02332915,Age 21 to 90 years
+9,36220,NCT02286154,Age 6 months to 21 years at the time of enrollment
+9,36413,NCT02276716,Age 12 years or older
+9,37362,NCT02251431,Collagen vascular diseases
+9,37858,NCT02233322,age >2 years
+9,40199,NCT02155699,age 16-24
+9,40300,NCT02152956,Prior treatment with an anti-CD123-directed agent
+9,41084,NCT02130388,End Stage Renal Disease on chronic intermittent dialysis
+9,41091,NCT02129803,10 years of age and older
+9,41150,NCT02128802,Age less than 60 years
+9,41841,NCT02106312,Age above or equal to 18 years
+9,42618,NCT02076906,Patients currently receiving other investigational agents.
+9,43150,NCT02055053,Age less than 18 yrs
+9,43505,NCT02042222,"Age range of 1.0-15.99 years, inclusive, at the time of enrollment"
+9,43737,NCT02030028,18 year of age and older
+9,43740,NCT02030028,Have received at least are biologic agent for at least 6 months
+9,43755,NCT02030015,Age: 17 years or less at time of enrollment
+9,44501,NCT01993719,Patients who are receiving other investigational agents
+9,44928,NCT01972919,Age ≥ 18.
+9,45737,NCT01940094,Participant age of 18 years or greater.
+9,45750,NCT01937884,"One month to 16 years of age,"
+9,46316,NCT01901055,age 18 years and older
+9,46567,NCT01891812,"Ages 8 to 18, inclusive"
+9,46630,NCT01886794,Known allergic reaction to any agent required by the protocol
+9,47035,NCT01864109,Normal creatinine for age (See table below) OR
+9,47105,NCT01851694,Age greater than or equal to 18y on date of consent
+9,47312,NCT01835626,Age of greater than or equal to 18 years
+9,47344,NCT01829360,Score below 82 on the Clinical Evaluation of Language Fundamentals
+9,47516,NCT01821690,Age at time of enrollment: 18 to 70 years
+9,47558,NCT01817751,Investigational agent within 4 weeks of first dose of study treatment
+9,47721,NCT01809002,Allergic to Bovine products such as Bovine Collagen Nerve Cuff
+9,48053,NCT01782599,Be aged 18-45.
+9,48174,NCT01773694,staged excisions
+9,48177,NCT01773694,management with secondary intention healing
+9,48489,NCT01742182,PD Hoehn and Yahr stage 2-4;
+9,48701,NCT01716806,"Parts A, B, C, and D: 60 years of age or older"
+9,48829,NCT01703949,Age >= 18 yrs at the time of the first dose of study drug
+9,49070,NCT01688388,Age > 40 years
+9,49020,NCT01696734,GI hemorrhage or obstruction experienced within the previous 6 weeks
+9,49299,NCT01676259,Age
+9,49478,NCT01659203,Receiving other investigational agents
+9,49537,NCT01648751,Women in good health aged 40-80
+9,49593,NCT01643473,Be > 18 years of age
+9,50539,NCT01554410,"PET, PET/CT, or PET/CT simulation (encouraged)"
+9,51574,NCT01421797,Early to late puberty (expected age range 7-18)
+9,52390,NCT01200940,Age 6-12 years at enrollment
+9,52613,NCT01107717,"above 18 years of age,"
+9,52785,NCT01050855,Age >6 months- 25 years
+9,53338,NCT00900575,LEEP for the treatment of cervical cancer in early stages.
+9,53504,NCT00809991,Clinical stages T1a to T2b PSA of less than 10 ng per ml
+9,53732,NCT00715611,Presence of third space fluid that cannot be controlled by drainage
+9,53989,NCT00542373,Subjects under the age of 18.
+9,54202,NCT00368355,Age less than or equal to 55 years of age
+9,54265,NCT00338377,Age greater than or equal to 12 years. (Turnstile I)
+9,52490,NCT01175044,Age ≤ 17.
