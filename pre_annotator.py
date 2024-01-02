@@ -58,7 +58,7 @@ def main():
 
     pid = int(input("Enter the pid value:"))
     sql_query = """
-    SELECT pc.pid, pc.mcid, cr.nctid, cr.criterion_text
+    SELECT pc.pid, pc.mcid, cr.nctid, cr.criterion
     FROM miimansa.criteria_inventory cr
     INNER JOIN miimansa.project_criteria pc ON pc.mcid = cr.mcid
     WHERE pc.pid = %s;
